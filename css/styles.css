@@ -1,0 +1,3 @@
+/* estilos simples */
+body { background: #f6ecec81; }
+.list-group-item.border-danger { background: #fff5f5; border-left: 4px solid #e4e135; }
