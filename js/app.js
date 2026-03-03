@@ -1,6 +1,6 @@
 // app.js
 const { createApp } = Vue;
-
+// hi
 class Message {
   constructor({ nombre, email, mensaje, prioridad }) {
     this.id = Date.now() + Math.random().toString(36).slice(2,7);
